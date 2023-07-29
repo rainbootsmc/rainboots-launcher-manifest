@@ -1,0 +1,12 @@
+{
+  "minecraft": "1.20.1",
+  "mods": [
+    { "slug": "fabric-api", "version": "XheZ9iGK" },
+    { "slug": "sodium", "version": "vgceLbdH" },
+    { "slug": "modmenu", "version": "eTCL1uh8" },
+    { "slug": "entityculling", "version": "d20sUcYn" },
+    { "slug": "ebe", "version": "i3v1Skck" },
+    { "slug": "raincoat", "version": "latest" }
+  ],
+  "serverAddress": ""
+}
